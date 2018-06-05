@@ -1,6 +1,6 @@
 # tensorlayer
-.gz
-.npz
+*.npz
+*.gz
 # IDE
 .idea/
 
